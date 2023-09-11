@@ -1,0 +1,7 @@
+C:\Github\C#\RockPaperScissorsConsole\bin\Debug\RockPaperScissorsConsole.exe.config
+C:\Github\C#\RockPaperScissorsConsole\bin\Debug\RockPaperScissorsConsole.exe
+C:\Github\C#\RockPaperScissorsConsole\bin\Debug\RockPaperScissorsConsole.pdb
+C:\Github\C#\RockPaperScissorsConsole\obj\Debug\RockPaperScissorsConsole.csproj.AssemblyReference.cache
+C:\Github\C#\RockPaperScissorsConsole\obj\Debug\RockPaperScissorsConsole.csproj.CoreCompileInputs.cache
+C:\Github\C#\RockPaperScissorsConsole\obj\Debug\RockPaperScissorsConsole.exe
+C:\Github\C#\RockPaperScissorsConsole\obj\Debug\RockPaperScissorsConsole.pdb
